@@ -1,0 +1,6 @@
+UseTab: Always
+TabWidth: 8
+IndentWidth: 8
+ColumnLimit: 0
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AllowShortBlocksOnASingleLine: Empty 
